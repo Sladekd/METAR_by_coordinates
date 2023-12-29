@@ -10,7 +10,7 @@ If you know the ICAO indicators, you can get data from any available time-span
 
 ## Find ariports in your county
 If you do not know the ICAO indicators, you can first finnd available airports
-![Example usage of generating of the airport information woithin ASOS network](https://github.com/Sladekd/METAR_by_coordinates/blob/main/Generate_asos_data.PNG)
+![Example usage of generating of the airport information woithin ASOS network](https://github.com/Sladekd/METAR_by_coordinates/blob/main/Generate_asos_stations.PNG)
 
 ## Find nearest airports to the coordinates
 If you do not know which ariport you would find suitable, try to find the closest airports to your coordinates and then fetch data from them!
